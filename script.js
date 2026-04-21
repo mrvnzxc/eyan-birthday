@@ -6,7 +6,7 @@ const overlay = document.getElementById("overlay");
 const startHint = document.getElementById("startHint");
 
 const desktopBgImages = ["1.jpg", "2.jpg", "3.jpg", "4.jpg"];
-const mobileBgImages = ["m1.jpg", "m2.jpg", "m3.jpg", "4.jpg"];
+const mobileBgImages = ["m1.JPG", "m2.JPG", "m3.JPG", "4.jpg"];
 const backgroundChangeInterval = 250;
 const obstacleSpawnMin = 900;
 const obstacleSpawnMax = 1600;
